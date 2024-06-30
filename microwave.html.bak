@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+container{
+  position:relative;
+}
+.topleft{
+  position:absolute;
+  top:2px;
+  left=4px;
+  font-size:8px;
+}
+img{
+  width:10%;
+  height:auto;
+}
+h1 {
+text-align:center;
+}
+</style>
+
+<title> Repairs</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="microwave">
+
+
+<h1>Welcome to Home of Repairs </h1>
+
+<div class="container">
+  <img src="Repair_Logo.png" >
+  <div class="topleft"></div>
+</div>
+
+<nav class="navbar">
+  <ul>
+      <li><a href="firstpage.html"> Home</a></li>
+	  <li><a href="microwave.html"> Combination </a></li>
+	    <ul class="dropdown">
+		  <li><a href="https://www.aeg.co.uk/kitchen/cooking/compact-built-in-range/built-in-microwaves/">AEG</a></li>
+		  <li><a href="https://www.samsung.com/uk/microwave-ovens/all-microwave-ovens/combi/">Samsung</a></li>
+	  <li><a href="washing.html"> Counter Top </a></li>
+	  <li><a href="freeze.html"> Over the range </a></li>
+	  <li><a href="contact.html">Contact us</a></li>
+  </ul>
+</nav>
+
+<main>
+  <h3>Microwaves Repair Page</h3>  
+  
+
+<p> 
+Choose the make of your microwaves and contact us.If your brand is not listed, contact us, we can help you. 
+Thankyou for choosing us.</p>
+
+  
+  
+
+
+</body>
+</html>
